@@ -1,0 +1,57 @@
+[
+  {
+    "consignee": "张三",
+    "fullAddress": "北京北京",
+    "id": 1111,
+    "isDefault": "0",
+    "phoneNum": "123456789",
+    "provinceId": 1,
+    "regionId": 1,
+    "userAddress": "北京北京",
+    "userId": 1
+  },
+  {
+    "consignee": "李四",
+    "fullAddress": "北京北京",
+    "id": 1112,
+    "isDefault": "0",
+    "phoneNum": "123456789",
+    "provinceId": 2,
+    "regionId": 2,
+    "userAddress": "北京北京",
+    "userId": 2
+  },
+  {
+    "consignee": "王五",
+    "fullAddress": "北京北京",
+    "id": 1113,
+    "isDefault": "0",
+    "phoneNum": "123456789",
+    "provinceId": 3,
+    "regionId": 3,
+    "userAddress": "北京北京",
+    "userId": 3
+  },
+  {
+    "consignee": "赵六",
+    "fullAddress": "北京北京",
+    "id": 1114,
+    "isDefault": "0",
+    "phoneNum": "123456789",
+    "provinceId": 4,
+    "regionId": 4,
+    "userAddress": "北京北京",
+    "userId": 4
+  },
+  {
+    "consignee": "冯七",
+    "fullAddress": "北京北京",
+    "id": 1115,
+    "isDefault": "1",
+    "phoneNum": "123456789",
+    "provinceId": 5,
+    "regionId": 5,
+    "userAddress": "北京北京",
+    "userId": 5
+  }
+]
